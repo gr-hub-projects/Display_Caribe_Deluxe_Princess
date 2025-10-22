@@ -1,24 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "461-2680340",
-        "Flight": "TOM169",
-        "PickupDate": "2025-10-20",
-        "PickupTime": "13:20",
-        "HotelName": "Caribe Deluxe Princess",
-        "HotelNumber": 13616
-      },
-      {
-        "id": "146746352",
-        "Flight": "WS2903",
-        "PickupDate": "2025-10-20",
-        "PickupTime": "11:35",
-        "HotelName": "Caribe Deluxe Princess",
-        "HotelNumber": 13616
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
