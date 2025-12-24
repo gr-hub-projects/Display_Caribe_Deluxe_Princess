@@ -3,26 +3,10 @@
     "type": "JSON",
     "content": [
       {
-        "id": "148598833",
-        "Flight": "WS2699",
-        "PickupDate": "2025-12-24",
-        "PickupTime": "13:15",
-        "HotelName": "Caribe Deluxe Princess",
-        "HotelNumber": 13616
-      },
-      {
-        "id": "L7D9Q6",
-        "Flight": "AA765",
-        "PickupDate": "2025-12-24",
-        "PickupTime": "13:00",
-        "HotelName": "Caribe Deluxe Princess",
-        "HotelNumber": 13616
-      },
-      {
-        "id": "ZK2R44",
-        "Flight": "JB268",
-        "PickupDate": "2025-12-24",
-        "PickupTime": "⚠️",
+        "id": "147768743",
+        "Flight": "WS2883",
+        "PickupDate": "2025-12-25",
+        "PickupTime": "10:30",
         "HotelName": "Caribe Deluxe Princess",
         "HotelNumber": 13616
       }
