@@ -1,7 +1,56 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "149698113",
+        "Flight": "WS2105",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "03:20",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      },
+      {
+        "id": "4HFB51",
+        "Flight": "AC0987",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "12:00",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      },
+      {
+        "id": "149907183",
+        "Flight": "WS2703",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "10:10",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      },
+      {
+        "id": "BY37HB",
+        "Flight": "UA1698",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "10:30",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      },
+      {
+        "id": "150002433",
+        "Flight": "WS2913",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "12:30",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      },
+      {
+        "id": "461-2665609",
+        "Flight": "TOM057",
+        "PickupDate": "2026-01-10",
+        "PickupTime": "13:45",
+        "HotelName": "Caribe Deluxe Princess",
+        "HotelNumber": 13616
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
